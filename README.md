@@ -9,7 +9,7 @@ Hi There I'm Soroush Kheirkhah I'm motivated self-taught Frontend developer, exp
 * 🌍  I'm based in Tehran - Iran
 * 🖥️  See my portfolio at [MrKheirkhah Website](http://mrkheirkhah.com)
 * ✉️  You can contact me at [mrsoroushkheirkhah@gmail.com](mailto:mrsoroushkheirkhah@gmail.com)
-* 🚀  I'm currently working on [Pindo.ir@digikala.com](http://pindo.ir)
+* 🚀  I'm currently working on [wallex.ir](http://wallex.ir)
 * 🧠  I'm learning something new everday!
 * 🤝  I'm open to collaborating on Jobs which offer relocation, Interesting projects, mentoring, consulting
 
